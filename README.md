@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+### 👋 Olá, eu sou o Vinícius!
 
-You can use the [editor on GitHub](https://github.com/Vini-002/Vini-002.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vini-002/Vini-002.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 🔭 Atualmente, estou trabalhando no projeto de pesquisa "ROTA 2030", que aborda a utilização de um sensor radar FMCW para assistência ao condutor.
+- :robot: Faço parte da equipe de robótica Omegabotz, onde participo na categoria Seguidor de Linha, que é um robô autônomo de corrida.
+- :rocket: Estou sempre aprendendo coisas novas, assisto muitos vídeos no youtube, dos mais variados temas: [matemática](https://www.youtube.com/c/3blue1brown), [impressão 3D](https://www.youtube.com/c/CNCKitchen), [foguetes amadores](https://www.youtube.com/c/BPSspace), [física](https://www.youtube.com/c/AppliedScience) ...
+- 👨‍🏫 Recentemente, tive minha primeira experiência como professor e ensinei Python para alunos do ensino médio. Foi uma experiência muito legal!
+- 🌱 No momento, estou lendo "A philosophy of software design" do professor John Ousterhout. Com esse livro, quero aprender a criar bons softwares.
+- 🤔 Quero aprender mais sobre controle de sistemas, em especial usando modelagem matemática.
+- 💬 Adoro conversar sobre ideias mirabolantes e projetos malucos.
+- 📫 Você pode falar comigo no meu e-mail [vini.fal2002@gmail.com](mailto:vini.fal2002@gmail.com), ou dar um oi no instagram [@frias_vini](https://www.instagram.com/frias_vini)
